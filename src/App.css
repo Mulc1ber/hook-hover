@@ -40,3 +40,19 @@
 .read-the-docs {
   color: #888;
 }
+
+.text {
+  width: 200px;
+  padding: 1rem 1.5rem;
+  border: 1px solid #333;
+  border-radius: 5px;
+  transition: all 0.3s;
+  cursor: pointer;
+}
+
+.text:hover {
+  background-color: #aaa;
+  color: #333;
+  transition: all 0.3s;
+  cursor: pointer;
+}
